@@ -1,2 +1,33 @@
-_site/
-.sass-cache/
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+themes/
+.deploy*/
+
+
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# node-waf configuration
+.lock-wscript
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directory
+bower_components
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
